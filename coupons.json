@@ -1,0 +1,5 @@
+{
+  "COUPON100": {"likes": 100, "status": "active"},
+  "MOSSLIM-BEY": {"likes": 500, "status": "active"},
+  "VIP-PLAYER": {"likes": 1000, "status": "used"}
+}
